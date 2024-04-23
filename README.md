@@ -1,4 +1,4 @@
-<h2 align="center">👨🏻‍💻 EZHILAMUTHAN M 👨🏻‍💻</h2>
+<h2 align="center">👨🏻‍💻 EZHILAMUTHAN 👨🏻‍💻</h2>
 <p align="center"><b>An enthusiastic security researcher and junior penetration tester with proficient learning experience with good understanding of information security.</b></p>
 
 <p align="center">Skilled with various domains of cyber security including application security, Network Security, Digital Forensics, Endpoint detection and Event management, Auditing and Penetration testing, Automotive hacking, Internet of Things (IoT) Security and some initiatives in Cloud security, Active directory pentest, Malware development, Devsecops...</p>
